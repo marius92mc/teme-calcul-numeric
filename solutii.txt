@@ -1,0 +1,242 @@
+-------- Metoda bisectiei ----------
+Singura radacina negativa    -0.43414305   valoarea functiei = -0.00000000
+Cea mai mica radacina pozitiva      0.45065675  valoarea functiei = 0.00000000
+A 1a radacina pozitiva      0.45065675
+  valoarea functiei = 0.00000000-----------------------------------------------
+A 2a radacina pozitiva      1.74473805
+  valoarea functiei = -0.00000000-----------------------------------------------
+A 3a radacina pozitiva      2.23831979
+  valoarea functiei = -0.00000000-----------------------------------------------
+A 4a radacina pozitiva      3.70904120
+  valoarea functiei = -0.00000000-----------------------------------------------
+A 5a radacina pozitiva      4.32264896
+  valoarea functiei = 0.00000001-----------------------------------------------
+A 6a radacina pozitiva      5.61993533
+  valoarea functiei = -0.00000000-----------------------------------------------
+A 7a radacina pozitiva      6.40693361
+  valoarea functiei = -0.00000000-----------------------------------------------
+A 8a radacina pozitiva      7.56321053
+  valoarea functiei = 0.00000003-----------------------------------------------
+A 9a radacina pozitiva      8.45348098
+  valoarea functiei = -0.00000003-----------------------------------------------
+A 10a radacina pozitiva      9.53183353
+  valoarea functiei = -0.00000009-----------------------------------------------
+A 11a radacina pozitiva     10.47730589  valoarea functiei -0.00000017
+-----------------------------------------------
+A 12a radacina pozitiva     11.51557072  valoarea functiei -0.00000010
+-----------------------------------------------
+A 13a radacina pozitiva     12.48910641  valoarea functiei -0.00000019
+-----------------------------------------------
+A 14a radacina pozitiva     13.50747141  valoarea functiei -0.00000055
+-----------------------------------------------
+A 15a radacina pozitiva     14.49483105  valoarea functiei -0.00000026
+-----------------------------------------------
+A 16a radacina pozitiva     15.50353913  valoarea functiei 0.00000021
+-----------------------------------------------
+A 17a radacina pozitiva     16.49756834  valoarea functiei 0.00000145
+-----------------------------------------------
+A 18a radacina pozitiva     17.50166147  valoarea functiei 0.00000063
+-----------------------------------------------
+A 19a radacina pozitiva     18.49886353  valoarea functiei -0.00000163
+-----------------------------------------------
+A 20a radacina pozitiva     19.50077493  valoarea functiei 0.00000172
+-----------------------------------------------
+----------------------------------------------------------------
+
+
+
+-------- Metoda Newton ----------
+Singura radacina negativa     -0.43414304
+  valoarea functiei = -0.00000002Cea mai mica radacina pozitiva     0.45065674  valoarea functiei = -0.00000003
+A 1a radacina pozitiva       0.45065674  valoarea functiei = -0.00000003
+-----------------------------------------------
+A 2a radacina pozitiva       1.74473805  valoarea functiei = 0.00000001
+-----------------------------------------------
+A 3a radacina pozitiva       2.23831979  valoarea functiei = -0.00000003
+-----------------------------------------------
+A 4a radacina pozitiva       3.70904120  valoarea functiei = 0.00000002
+-----------------------------------------------
+A 5a radacina pozitiva       4.32264895  valoarea functiei = -0.00000013
+-----------------------------------------------
+A 6a radacina pozitiva       5.61993533  valoarea functiei = 0.00000003
+-----------------------------------------------
+A 7a radacina pozitiva       6.40693361  valoarea functiei = -0.00000016
+-----------------------------------------------
+A 8a radacina pozitiva       7.56321052  valoarea functiei = 0.00000064
+-----------------------------------------------
+A 9a radacina pozitiva       8.45348097  valoarea functiei = -0.00000063
+-----------------------------------------------
+A 10a radacina pozitiva       9.53183353  valoarea functiei = 0.00000050
+-----------------------------------------------
+A 11a radacina pozitiva       10.47730588  valoarea functiei = -0.00000147
+-----------------------------------------------
+A 12a radacina pozitiva       11.51557072  valoarea functiei = 0.00000099
+-----------------------------------------------
+A 13a radacina pozitiva       12.48910641  valoarea functiei = -0.00000113
+-----------------------------------------------
+A 14a radacina pozitiva       13.50747140  valoarea functiei = 0.00000357
+-----------------------------------------------
+A 15a radacina pozitiva       14.49483105  valoarea functiei = -0.00000103
+-----------------------------------------------
+A 16a radacina pozitiva       15.50353913  valoarea functiei = 0.00000758
+-----------------------------------------------
+A 17a radacina pozitiva       16.49756833  valoarea functiei = -0.00001740
+-----------------------------------------------
+A 18a radacina pozitiva       17.50166147  valoarea functiei = 0.00001724
+-----------------------------------------------
+A 19a radacina pozitiva       18.49886352  valoarea functiei = -0.00004519
+-----------------------------------------------
+A 20a radacina pozitiva       19.50077493  valoarea functiei = 0.00001778
+-----------------------------------------------
+----------------------------------------------------------------
+
+
+
+-------- Regula Falsi sau Metoda falsei pozitii ----------
+Singura radacina negativa    -0.43414305  valoarea functiei = -0.00000000
+Cea mai mica radacina pozitiva      0.45065675
+  valoarea functiei = -0.00000000A 1a radacina pozitiva       0.45065675   valoarea functiei = -0.00000000
+-----------------------------------------------
+A 2a radacina pozitiva       1.74473805   valoarea functiei = -0.00000000
+-----------------------------------------------
+A 3a radacina pozitiva       2.23831980   valoarea functiei = -0.00000000
+-----------------------------------------------
+A 4a radacina pozitiva       3.70904120   valoarea functiei = -0.00000000
+-----------------------------------------------
+A 5a radacina pozitiva       4.32264896   valoarea functiei = -0.00000000
+-----------------------------------------------
+A 6a radacina pozitiva       5.61993533   valoarea functiei = -0.00000000
+-----------------------------------------------
+A 7a radacina pozitiva       6.40693361   valoarea functiei = -0.00000000
+-----------------------------------------------
+A 8a radacina pozitiva       7.56321053   valoarea functiei = 0.00000000
+-----------------------------------------------
+A 9a radacina pozitiva       8.45348098   valoarea functiei = -0.00000000
+-----------------------------------------------
+A 10a radacina pozitiva       9.53183353   valoarea functiei = 0.00000000
+-----------------------------------------------
+A 11a radacina pozitiva     10.47730589 valoarea functiei = -0.00000000
+-----------------------------------------------
+A 12a radacina pozitiva     11.51557072 valoarea functiei = 0.00000000
+-----------------------------------------------
+A 13a radacina pozitiva     12.48910641 valoarea functiei = -0.00000000
+-----------------------------------------------
+A 14a radacina pozitiva     13.50747141 valoarea functiei = 0.00000000
+-----------------------------------------------
+A 15a radacina pozitiva     14.49483105 valoarea functiei = -0.00000000
+-----------------------------------------------
+A 16a radacina pozitiva     15.50353913 valoarea functiei = 0.00000000
+-----------------------------------------------
+A 17a radacina pozitiva     16.49756834 valoarea functiei = -0.00000000
+-----------------------------------------------
+A 18a radacina pozitiva     17.50166147 valoarea functiei = 0.00000000
+-----------------------------------------------
+A 19a radacina pozitiva     18.49886353 valoarea functiei = -0.00000000
+-----------------------------------------------
+A 20a radacina pozitiva     19.50077493 valoarea functiei = 0.00000000
+-----------------------------------------------
+----------------------------------------------------------------
+
+
+
+-------- Metoda secantei  ----------
+Singura radacina negativa    -0.43414305  valoarea functiei = 0.00000000
+Cea mai mica radacina pozitiva      0.45065675 valoarea functiei = -0.00000000
+A 1a radacina pozitiva       0.45065675 valoarea functiei = -0.00000000
+-----------------------------------------------
+A 2a radacina pozitiva       1.74473805 valoarea functiei = -0.00000000
+-----------------------------------------------
+A 3a radacina pozitiva       2.23831980 valoarea functiei = -0.00000000
+-----------------------------------------------
+A 4a radacina pozitiva       3.70904120 valoarea functiei = 0.00000000
+-----------------------------------------------
+A 5a radacina pozitiva       4.32264896 valoarea functiei = -0.00000000
+-----------------------------------------------
+A 6a radacina pozitiva       5.61993533 valoarea functiei = -0.00000000
+-----------------------------------------------
+A 7a radacina pozitiva       6.40693361 valoarea functiei = 0.00000000
+-----------------------------------------------
+A 8a radacina pozitiva       7.56321053 valoarea functiei = -0.00000000
+-----------------------------------------------
+A 9a radacina pozitiva       8.45348098 valoarea functiei = -0.00000000
+-----------------------------------------------
+A 10a radacina pozitiva       9.53183353 valoarea functiei = -0.00000000
+-----------------------------------------------
+A 11a radacina pozitiva     10.47730589  valoarea functiei = -0.00000000
+-----------------------------------------------
+A 12a radacina pozitiva     11.51557072  valoarea functiei = 0.00000000
+-----------------------------------------------
+A 13a radacina pozitiva     12.48910641  valoarea functiei = -0.00000000
+-----------------------------------------------
+A 14a radacina pozitiva     13.50747141  valoarea functiei = 0.00000000
+-----------------------------------------------
+A 15a radacina pozitiva     14.49483105  valoarea functiei = -0.00000000
+-----------------------------------------------
+A 16a radacina pozitiva     15.50353913  valoarea functiei = 0.00000000
+-----------------------------------------------
+A 17a radacina pozitiva     16.49756834  valoarea functiei = -0.00000000
+-----------------------------------------------
+A 18a radacina pozitiva     17.50166147  valoarea functiei = 0.00000000
+-----------------------------------------------
+A 19a radacina pozitiva     18.49886353  valoarea functiei = -0.00000000
+-----------------------------------------------
+A 20a radacina pozitiva     19.50077493  valoarea functiei = 0.00000000
+-----------------------------------------------
+----------------------------------------------------------------
+
+
+
+-------- Metoda coardei  ----------
+Singura radacina negativa    -0.43414305  valoarea functiei = -0.00000000
+Cea mai mica radacina pozitiva      0.45065675   valoarea functiei = -0.00000000
+A 1a radacina pozitiva       0.45065675  valoarea functiei = -0.00000000
+-----------------------------------------------
+A 2a radacina pozitiva       1.74473805  valoarea functiei = -0.00000000
+-----------------------------------------------
+A 3a radacina pozitiva       2.23831980  valoarea functiei = -0.00000000
+-----------------------------------------------
+A 4a radacina pozitiva       3.70904120  valoarea functiei = -0.00000000
+-----------------------------------------------
+A 5a radacina pozitiva       4.32264896  valoarea functiei = -0.00000000
+-----------------------------------------------
+A 6a radacina pozitiva       5.61993533  valoarea functiei = -0.00000000
+-----------------------------------------------
+A 7a radacina pozitiva       6.40693361  valoarea functiei = -0.00000000
+-----------------------------------------------
+A 8a radacina pozitiva       7.56321053  valoarea functiei = 0.00000000
+-----------------------------------------------
+A 9a radacina pozitiva       8.45348098  valoarea functiei = -0.00000000
+-----------------------------------------------
+A 10a radacina pozitiva       9.53183353  valoarea functiei = 0.00000000
+-----------------------------------------------
+A 11a radacina pozitiva     10.47730589
+ valoarea functiei = -0.00000000
+-----------------------------------------------
+A 12a radacina pozitiva     11.51557072
+ valoarea functiei = 0.00000000
+-----------------------------------------------
+A 13a radacina pozitiva     12.48910641
+ valoarea functiei = -0.00000000
+-----------------------------------------------
+A 14a radacina pozitiva     13.50747141
+ valoarea functiei = 0.00000000
+-----------------------------------------------
+A 15a radacina pozitiva     14.49483105
+ valoarea functiei = -0.00000000
+-----------------------------------------------
+A 16a radacina pozitiva     15.50353913
+ valoarea functiei = 0.00000000
+-----------------------------------------------
+A 17a radacina pozitiva     16.49756834
+ valoarea functiei = -0.00000000
+-----------------------------------------------
+A 18a radacina pozitiva     17.50166147
+ valoarea functiei = 0.00000000
+-----------------------------------------------
+A 19a radacina pozitiva     18.49886353
+ valoarea functiei = -0.00000000
+-----------------------------------------------
+A 20a radacina pozitiva     19.50077493
+ valoarea functiei = 0.00000000
+-----------------------------------------------
+----------------------------------------------------------------

@@ -1,0 +1,5 @@
+
+f(x) = ln(x^2 + 1) - exp(0.4 * x) * cos(pi * x)
+Se cere - singura radacina negativa
+- cea mai mica radacina pozitiva
+- primele 20 de radacini pozitive
